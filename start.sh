@@ -4,4 +4,4 @@ pkg install termux-api
 pkg install apache2 php
 apachectl start
 clear
-install.py
+php start.py
